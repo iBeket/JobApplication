@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CreitiveBlogApp</string>
+    <string name="app_name">Login</string>
+    <string name="title_activity_blog_list">BlogListActivity</string>
+    <string name="title_activity_blog_screen">BlogScreenActivity</string>
 </resources>
