@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Login</string>
-    <string name="title_activity_blog_list">BlogListActivity</string>
-    <string name="title_activity_blog_screen">BlogScreenActivity</string>
+    <string name="title_activity_blog_list">Blog List</string>
+    <string name="title_activity_blog_screen">Blog Display</string>
 </resources>
